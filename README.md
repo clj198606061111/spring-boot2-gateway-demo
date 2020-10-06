@@ -35,7 +35,6 @@ public class DemogatewayApplication {
 }
 ```
 
-
 ## S1
 
 ```html
@@ -46,4 +45,10 @@ http://127.0.0.1:8081/s1/a
 
 ```html
 http://127.0.0.1:8082/s2/b
+```
+
+## 通过网关访问子服务
+
+```html
+http://127.0.0.1:8080/s1/a
 ```
