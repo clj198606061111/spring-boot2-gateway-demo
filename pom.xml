@@ -6,12 +6,17 @@
 
     <groupId>org.example</groupId>
     <artifactId>spring-boot2-gateway-demo</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <organization>
         <name>冰上浮云</name>
         <url>http://www.itclj.com</url>
     </organization>
+    <modules>
+        <module>server1</module>
+        <module>server2</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

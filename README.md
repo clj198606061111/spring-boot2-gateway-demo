@@ -34,3 +34,16 @@ public class DemogatewayApplication {
 	}
 }
 ```
+
+
+## S1
+
+```html
+http://127.0.0.1:8081/s1/a
+```
+
+## s2
+
+```html
+http://127.0.0.1:8082/s2/b
+```
